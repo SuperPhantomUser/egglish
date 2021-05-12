@@ -40,7 +40,7 @@ In contractions you treat the left side as if it were a single word and add the 
 
 ## Sample Sentences
 
-Hi, my name is [insert name here]!
+Hi, my name is [insert name here]!  
 `Hig, myg namegge iseg [inseregget namegge heregge]!`
 
 Who are you and WHY ARE YOU IN MY HOUSE?!
